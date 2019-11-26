@@ -1,0 +1,560 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Oct 2018 10:30:04 at https://rossfairgrieve.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rossfairgrieve.com -O1 "C:\My Web Sites\camerasite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:31:31	Error: 	"Method Not Allowed" (405) at link https://rossfairgrieve.com/xmlrpc.php (from https://rossfairgrieve.com/)
+10:33:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/plugins/ut-portfolio/assets/js/jquery.isotope.min.js?ver=4.3.1 (from https://rossfairgrieve.com/)
+10:33:50	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=7563AB0A3A2C58461D1FC6D9A059917D
+10:33:50	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=7563AB0A3A2C58461D1FC6D9A059917D and https://rossfairgrieve.com/?wordfence_lh=1&hid=7563AB0A3A2C58461D1FC6D9A059917D
+10:33:50	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=7563AB0A3A2C58461D1FC6D9A059917D to https://rossfairgrieve.com/?wordfence_lh=1&hid=7563AB0A3A2C58461D1FC6D9A059917D
+10:34:32	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/karakoram-anomaly-project/ (from https://rossfairgrieve.com/)
+10:34:32	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/movember-foundation-nancys-story/ (from https://rossfairgrieve.com/)
+10:34:33	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/being-moken/ (from https://rossfairgrieve.com/)
+10:34:33	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/changing-gears/ (from https://rossfairgrieve.com/)
+10:34:33	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/ice-lights/ (from https://rossfairgrieve.com/)
+10:34:34	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/skipress-pr/ (from https://rossfairgrieve.com/)
+10:34:34	Warning: 	Moved Permanently for https://rossfairgrieve.com/work/lanta-animal-welfare/
+10:34:34	Warning: 	File has moved from https://rossfairgrieve.com/work/lanta-animal-welfare/ to https://rossfairgrieve.com/lanta-animal-welfare/
+10:34:35	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/breaking-the-cycle/ (from https://rossfairgrieve.com/)
+10:34:35	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/work/train-to-your-environment/ (from https://rossfairgrieve.com/)
+10:34:37	Warning: 	File not parsed, looks like binary: https://rossfairgrieve.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:34:37	Warning: 	File not parsed, looks like binary: https://rossfairgrieve.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:34:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/themes/brooklyn/css/fonts/raleway-extralight-webfont.eot? (from https://rossfairgrieve.com/wp-content/themes/brooklyn/css/ut-fontface.min.css?ver=4.9.8)
+10:34:38	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=7563AB0A3A2C58461D1FC6D9A059917D
+10:34:38	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7563AB0A3A2C58461D1FC6D9A059917D to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7563AB0A3A2C58461D1FC6D9A059917D
+10:34:39	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=449C8016FD9F993447E10C9046EE36FF
+10:34:39	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=449C8016FD9F993447E10C9046EE36FF and https://rossfairgrieve.com/?wordfence_lh=1&hid=449C8016FD9F993447E10C9046EE36FF
+10:34:39	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=449C8016FD9F993447E10C9046EE36FF to https://rossfairgrieve.com/?wordfence_lh=1&hid=449C8016FD9F993447E10C9046EE36FF
+10:35:07	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/wp-content/themes/brooklyn/img/placeholder.png (from https://rossfairgrieve.com/blog/)
+10:40:36	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=7C3A7F929E6F9AD16724B30B1E124283
+10:40:36	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=7C3A7F929E6F9AD16724B30B1E124283 and https://rossfairgrieve.com/?wordfence_lh=1&hid=7C3A7F929E6F9AD16724B30B1E124283
+10:40:36	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=7C3A7F929E6F9AD16724B30B1E124283 to https://rossfairgrieve.com/?wordfence_lh=1&hid=7C3A7F929E6F9AD16724B30B1E124283
+10:43:47	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=449C8016FD9F993447E10C9046EE36FF
+10:43:47	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=449C8016FD9F993447E10C9046EE36FF to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D449C8016FD9F993447E10C9046EE36FF
+10:43:48	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=2081
+10:43:48	Warning: 	File has moved from https://rossfairgrieve.com/?p=2081 to https://rossfairgrieve.com/fixing-youtube-colours/
+10:43:48	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=62BB1FBAD1FF852C631D97DF24A50C95
+10:43:48	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=62BB1FBAD1FF852C631D97DF24A50C95 and https://rossfairgrieve.com/?wordfence_lh=1&hid=62BB1FBAD1FF852C631D97DF24A50C95
+10:43:48	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=62BB1FBAD1FF852C631D97DF24A50C95 to https://rossfairgrieve.com/?wordfence_lh=1&hid=62BB1FBAD1FF852C631D97DF24A50C95
+10:43:48	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=B1F0B65FBEE5BB904B0B33544073D5EB
+10:43:48	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=B1F0B65FBEE5BB904B0B33544073D5EB and https://rossfairgrieve.com/?wordfence_lh=1&hid=B1F0B65FBEE5BB904B0B33544073D5EB
+10:43:48	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=B1F0B65FBEE5BB904B0B33544073D5EB to https://rossfairgrieve.com/?wordfence_lh=1&hid=B1F0B65FBEE5BB904B0B33544073D5EB
+10:43:54	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=BEB1E988FDDE728928FA8A89CC0297AE
+10:43:54	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=BEB1E988FDDE728928FA8A89CC0297AE and https://rossfairgrieve.com/?wordfence_lh=1&hid=BEB1E988FDDE728928FA8A89CC0297AE
+10:43:54	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=BEB1E988FDDE728928FA8A89CC0297AE to https://rossfairgrieve.com/?wordfence_lh=1&hid=BEB1E988FDDE728928FA8A89CC0297AE
+10:44:01	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637
+10:44:01	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637 and https://rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637
+10:44:01	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637 to https://rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637
+10:44:01	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40
+10:44:01	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40 and https://rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40
+10:44:01	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40 to https://rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40
+10:44:01	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=1321
+10:44:01	Warning: 	File has moved from https://rossfairgrieve.com/?p=1321 to https://rossfairgrieve.com/straight-to-camera-interviews-made-easy/
+10:44:01	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=1F3CF370E68109D324D7F3EC63CFEBB6
+10:44:01	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=1F3CF370E68109D324D7F3EC63CFEBB6 and https://rossfairgrieve.com/?wordfence_lh=1&hid=1F3CF370E68109D324D7F3EC63CFEBB6
+10:44:01	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=1F3CF370E68109D324D7F3EC63CFEBB6 to https://rossfairgrieve.com/?wordfence_lh=1&hid=1F3CF370E68109D324D7F3EC63CFEBB6
+10:44:09	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=AA758469DF6E911839F78F43C7410FC5
+10:44:09	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=AA758469DF6E911839F78F43C7410FC5 and https://rossfairgrieve.com/?wordfence_lh=1&hid=AA758469DF6E911839F78F43C7410FC5
+10:44:09	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=AA758469DF6E911839F78F43C7410FC5 to https://rossfairgrieve.com/?wordfence_lh=1&hid=AA758469DF6E911839F78F43C7410FC5
+10:44:09	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=A0EB618F465D05C4F79FA298A73AAAA7
+10:44:09	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=A0EB618F465D05C4F79FA298A73AAAA7 and https://rossfairgrieve.com/?wordfence_lh=1&hid=A0EB618F465D05C4F79FA298A73AAAA7
+10:44:09	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=A0EB618F465D05C4F79FA298A73AAAA7 to https://rossfairgrieve.com/?wordfence_lh=1&hid=A0EB618F465D05C4F79FA298A73AAAA7
+10:44:11	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=3C32E46857F1C4E8EF612559B2959DDF
+10:44:11	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=3C32E46857F1C4E8EF612559B2959DDF and https://rossfairgrieve.com/?wordfence_lh=1&hid=3C32E46857F1C4E8EF612559B2959DDF
+10:44:11	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=3C32E46857F1C4E8EF612559B2959DDF to https://rossfairgrieve.com/?wordfence_lh=1&hid=3C32E46857F1C4E8EF612559B2959DDF
+10:44:12	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=1305
+10:44:12	Warning: 	File has moved from https://rossfairgrieve.com/?p=1305 to https://rossfairgrieve.com/clash-of-the-4k-mini-titans-sony-a7s-vs-panasonic-gh4/
+10:44:12	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=59FE3BD9A84AD920EAD6BC5DC6165871
+10:44:12	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=59FE3BD9A84AD920EAD6BC5DC6165871 and https://rossfairgrieve.com/?wordfence_lh=1&hid=59FE3BD9A84AD920EAD6BC5DC6165871
+10:44:12	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=59FE3BD9A84AD920EAD6BC5DC6165871 to https://rossfairgrieve.com/?wordfence_lh=1&hid=59FE3BD9A84AD920EAD6BC5DC6165871
+10:44:21	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=1233
+10:44:21	Warning: 	File has moved from https://rossfairgrieve.com/?p=1233 to https://rossfairgrieve.com/preview-of-moken-documentary/
+10:44:21	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984
+10:44:21	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984 and https://rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984
+10:44:21	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984 to https://rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984
+10:44:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/moken-2/thumbs/thumbs_moken-1.jpg (from https://rossfairgrieve.com/preview-of-moken-documentary/)
+10:44:28	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=06F83E5517079249BD9C3C8892629285
+10:44:28	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=06F83E5517079249BD9C3C8892629285 and https://rossfairgrieve.com/?wordfence_lh=1&hid=06F83E5517079249BD9C3C8892629285
+10:44:28	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=06F83E5517079249BD9C3C8892629285 to https://rossfairgrieve.com/?wordfence_lh=1&hid=06F83E5517079249BD9C3C8892629285
+10:44:28	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=1158
+10:44:28	Warning: 	File has moved from https://rossfairgrieve.com/?p=1158 to https://rossfairgrieve.com/training-with-ttye/
+10:44:28	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=F6CF045A5E6FABEE1866E724CF8353EF
+10:44:28	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=F6CF045A5E6FABEE1866E724CF8353EF and https://rossfairgrieve.com/?wordfence_lh=1&hid=F6CF045A5E6FABEE1866E724CF8353EF
+10:44:28	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=F6CF045A5E6FABEE1866E724CF8353EF to https://rossfairgrieve.com/?wordfence_lh=1&hid=F6CF045A5E6FABEE1866E724CF8353EF
+10:44:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/train-to-your-environment/dynamic/michael-darren-ttye-5.jpg-nggid03229-ngg0dyn-150x110x100-00f0w010c011r110f110r010t010.jpg (from https://rossfairgrieve.com/training-with-ttye/)
+10:44:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/train-to-your-environment/dynamic/michael-darren-ttye-10.jpg-nggid03234-ngg0dyn-150x110x100-00f0w010c011r110f110r010t010.jpg (from https://rossfairgrieve.com/training-with-ttye/)
+10:44:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/train-to-your-environment/dynamic/michael-darren-ttye-15.jpg-nggid03239-ngg0dyn-150x110x100-00f0w010c011r110f110r010t010.jpg (from https://rossfairgrieve.com/training-with-ttye/)
+10:44:34	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=926
+10:44:34	Warning: 	File has moved from https://rossfairgrieve.com/?p=926 to https://rossfairgrieve.com/james-bond-champagne-sexy-people/
+10:44:34	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=FBD583F76F9916ACB1FE94C82B94B82C
+10:44:34	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=FBD583F76F9916ACB1FE94C82B94B82C and https://rossfairgrieve.com/?wordfence_lh=1&hid=FBD583F76F9916ACB1FE94C82B94B82C
+10:44:34	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=FBD583F76F9916ACB1FE94C82B94B82C to https://rossfairgrieve.com/?wordfence_lh=1&hid=FBD583F76F9916ACB1FE94C82B94B82C
+10:44:35	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=C5C8B9121C2B53FE69764FCD3F02B3ED
+10:44:35	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=C5C8B9121C2B53FE69764FCD3F02B3ED and https://rossfairgrieve.com/?wordfence_lh=1&hid=C5C8B9121C2B53FE69764FCD3F02B3ED
+10:44:35	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=C5C8B9121C2B53FE69764FCD3F02B3ED to https://rossfairgrieve.com/?wordfence_lh=1&hid=C5C8B9121C2B53FE69764FCD3F02B3ED
+10:44:41	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B
+10:44:41	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B and https://rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B
+10:44:41	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B to https://rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B
+10:44:41	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/wp-content/uploads/2012/08/just-off-the-m3.png (from https://rossfairgrieve.com/category/videography/cover-videos/)
+10:44:48	Error: 	"Not Found" (404) at link https://rossfairgrieve.com/wp-content/uploads/2012/03/Screen-Shot-2012-08-10-at-14.57.59.png (from https://rossfairgrieve.com/category/videography/cover-videos/)
+10:44:49	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=CBBE47D90B8CC82F37AE681E9DFDDBC0
+10:44:49	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=CBBE47D90B8CC82F37AE681E9DFDDBC0 and https://rossfairgrieve.com/?wordfence_lh=1&hid=CBBE47D90B8CC82F37AE681E9DFDDBC0
+10:44:49	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=CBBE47D90B8CC82F37AE681E9DFDDBC0 to https://rossfairgrieve.com/?wordfence_lh=1&hid=CBBE47D90B8CC82F37AE681E9DFDDBC0
+10:44:51	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=A3410941F797529D574A3D6187C2D4A8
+10:44:51	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=A3410941F797529D574A3D6187C2D4A8 and https://rossfairgrieve.com/?wordfence_lh=1&hid=A3410941F797529D574A3D6187C2D4A8
+10:44:51	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=A3410941F797529D574A3D6187C2D4A8 to https://rossfairgrieve.com/?wordfence_lh=1&hid=A3410941F797529D574A3D6187C2D4A8
+10:45:18	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=902
+10:45:18	Warning: 	File has moved from https://rossfairgrieve.com/?p=902 to https://rossfairgrieve.com/making-cocktails-with-ne-yo/
+10:45:18	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=3AEBCE6792E690C15EBBE79FE6E1A5BE
+10:45:18	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=3AEBCE6792E690C15EBBE79FE6E1A5BE and https://rossfairgrieve.com/?wordfence_lh=1&hid=3AEBCE6792E690C15EBBE79FE6E1A5BE
+10:45:18	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=3AEBCE6792E690C15EBBE79FE6E1A5BE to https://rossfairgrieve.com/?wordfence_lh=1&hid=3AEBCE6792E690C15EBBE79FE6E1A5BE
+10:45:18	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=B471E06173E50F7F08DB738E198CEB4C
+10:45:18	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=B471E06173E50F7F08DB738E198CEB4C and https://rossfairgrieve.com/?wordfence_lh=1&hid=B471E06173E50F7F08DB738E198CEB4C
+10:45:18	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=B471E06173E50F7F08DB738E198CEB4C to https://rossfairgrieve.com/?wordfence_lh=1&hid=B471E06173E50F7F08DB738E198CEB4C
+10:49:37	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=98D992AA6E681722B21698CB0DCEB6D0
+10:49:37	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=98D992AA6E681722B21698CB0DCEB6D0 and https://rossfairgrieve.com/?wordfence_lh=1&hid=98D992AA6E681722B21698CB0DCEB6D0
+10:49:37	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=98D992AA6E681722B21698CB0DCEB6D0 to https://rossfairgrieve.com/?wordfence_lh=1&hid=98D992AA6E681722B21698CB0DCEB6D0
+10:49:40	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=873
+10:49:40	Warning: 	File has moved from https://rossfairgrieve.com/?p=873 to https://rossfairgrieve.com/ski-and-snowboard-filming-and-photography-ski-press/
+10:49:40	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=4054F7CDBF904899D05D458C7A41ECBC
+10:49:40	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=4054F7CDBF904899D05D458C7A41ECBC and https://rossfairgrieve.com/?wordfence_lh=1&hid=4054F7CDBF904899D05D458C7A41ECBC
+10:49:40	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=4054F7CDBF904899D05D458C7A41ECBC to https://rossfairgrieve.com/?wordfence_lh=1&hid=4054F7CDBF904899D05D458C7A41ECBC
+10:49:41	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=A4D7B2263E23DEAD26174E9FE17A7233
+10:49:41	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=A4D7B2263E23DEAD26174E9FE17A7233 and https://rossfairgrieve.com/?wordfence_lh=1&hid=A4D7B2263E23DEAD26174E9FE17A7233
+10:49:41	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=A4D7B2263E23DEAD26174E9FE17A7233 to https://rossfairgrieve.com/?wordfence_lh=1&hid=A4D7B2263E23DEAD26174E9FE17A7233
+10:49:41	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=859
+10:49:41	Warning: 	File has moved from https://rossfairgrieve.com/?p=859 to https://rossfairgrieve.com/fixing-jerky-gopro-footage-for-smooth-playback/
+10:49:41	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=3542523000D27CFA2511EA93C107D3FA
+10:49:41	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=3542523000D27CFA2511EA93C107D3FA and https://rossfairgrieve.com/?wordfence_lh=1&hid=3542523000D27CFA2511EA93C107D3FA
+10:49:41	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=3542523000D27CFA2511EA93C107D3FA to https://rossfairgrieve.com/?wordfence_lh=1&hid=3542523000D27CFA2511EA93C107D3FA
+10:49:55	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C
+10:49:55	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C and https://rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C
+10:49:55	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C to https://rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C
+10:49:55	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=844
+10:49:55	Warning: 	File has moved from https://rossfairgrieve.com/?p=844 to https://rossfairgrieve.com/sony-release-nex-ea50-camcorder-fs100-mark-ii/
+10:49:55	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00
+10:49:55	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00 and https://rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00
+10:49:55	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00 to https://rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00
+10:49:55	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=18
+10:49:55	Warning: 	File has moved from https://rossfairgrieve.com/?p=18 to https://rossfairgrieve.com/lanta-animal-welfare/
+10:49:57	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=81B26C677C90933C8D68C4A2FE3A5DF8
+10:49:57	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=81B26C677C90933C8D68C4A2FE3A5DF8 and https://rossfairgrieve.com/?wordfence_lh=1&hid=81B26C677C90933C8D68C4A2FE3A5DF8
+10:49:57	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=81B26C677C90933C8D68C4A2FE3A5DF8 to https://rossfairgrieve.com/?wordfence_lh=1&hid=81B26C677C90933C8D68C4A2FE3A5DF8
+10:49:58	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=C2B4DE8CB0B9B0293E824D51D8795548
+10:49:58	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=C2B4DE8CB0B9B0293E824D51D8795548 and https://rossfairgrieve.com/?wordfence_lh=1&hid=C2B4DE8CB0B9B0293E824D51D8795548
+10:49:58	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=C2B4DE8CB0B9B0293E824D51D8795548 to https://rossfairgrieve.com/?wordfence_lh=1&hid=C2B4DE8CB0B9B0293E824D51D8795548
+10:51:19	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=7C3A7F929E6F9AD16724B30B1E124283
+10:51:19	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7C3A7F929E6F9AD16724B30B1E124283 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7C3A7F929E6F9AD16724B30B1E124283
+10:51:19	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=809
+10:51:19	Warning: 	File has moved from https://rossfairgrieve.com/?p=809 to https://rossfairgrieve.com/windlesham-golf-a-short-drive/
+10:51:19	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=D8D576DDC90E93D45C84385478140ED0
+10:51:19	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=D8D576DDC90E93D45C84385478140ED0 and https://rossfairgrieve.com/?wordfence_lh=1&hid=D8D576DDC90E93D45C84385478140ED0
+10:51:19	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=D8D576DDC90E93D45C84385478140ED0 to https://rossfairgrieve.com/?wordfence_lh=1&hid=D8D576DDC90E93D45C84385478140ED0
+10:51:21	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=798
+10:51:21	Warning: 	File has moved from https://rossfairgrieve.com/?p=798 to https://rossfairgrieve.com/event-video-oas-summer-ball/
+10:51:21	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D
+10:51:21	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D and https://rossfairgrieve.com/?wordfence_lh=1&hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D
+10:51:21	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D to https://rossfairgrieve.com/?wordfence_lh=1&hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D
+10:51:23	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=777
+10:51:23	Warning: 	File has moved from https://rossfairgrieve.com/?p=777 to https://rossfairgrieve.com/rc-helicopters-nutters-slow-motion-amazing/
+10:51:23	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=FFDD1C2453E701DB62A2602FF7FF80CD
+10:51:23	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=FFDD1C2453E701DB62A2602FF7FF80CD and https://rossfairgrieve.com/?wordfence_lh=1&hid=FFDD1C2453E701DB62A2602FF7FF80CD
+10:51:23	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=FFDD1C2453E701DB62A2602FF7FF80CD to https://rossfairgrieve.com/?wordfence_lh=1&hid=FFDD1C2453E701DB62A2602FF7FF80CD
+10:51:32	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D
+10:51:32	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D and https://rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D
+10:51:32	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D to https://rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D
+10:51:32	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=675
+10:51:32	Warning: 	File has moved from https://rossfairgrieve.com/?p=675 to https://rossfairgrieve.com/is-the-small-sensor-video-camera-dead/
+10:51:32	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28
+10:51:32	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28 and https://rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28
+10:51:32	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28 to https://rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28
+10:51:32	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=44AC6999062DCE3ABFD299BC4F670F26
+10:51:32	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=44AC6999062DCE3ABFD299BC4F670F26 and https://rossfairgrieve.com/?wordfence_lh=1&hid=44AC6999062DCE3ABFD299BC4F670F26
+10:51:32	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=44AC6999062DCE3ABFD299BC4F670F26 to https://rossfairgrieve.com/?wordfence_lh=1&hid=44AC6999062DCE3ABFD299BC4F670F26
+10:51:33	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=491
+10:51:33	Warning: 	File has moved from https://rossfairgrieve.com/?p=491 to https://rossfairgrieve.com/cleos-story/
+10:51:33	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=C0673934567482433E439254425FFAA6
+10:51:33	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=C0673934567482433E439254425FFAA6 and https://rossfairgrieve.com/?wordfence_lh=1&hid=C0673934567482433E439254425FFAA6
+10:51:33	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=C0673934567482433E439254425FFAA6 to https://rossfairgrieve.com/?wordfence_lh=1&hid=C0673934567482433E439254425FFAA6
+10:51:36	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3
+10:51:36	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3 and https://rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3
+10:51:36	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3 to https://rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3
+10:51:38	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=467
+10:51:38	Warning: 	File has moved from https://rossfairgrieve.com/?p=467 to https://rossfairgrieve.com/headshot-photography-with-actress-laura-bailey/
+10:51:38	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=DA5CA073123DF4B92EA474A19E59FDD5
+10:51:38	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=DA5CA073123DF4B92EA474A19E59FDD5 and https://rossfairgrieve.com/?wordfence_lh=1&hid=DA5CA073123DF4B92EA474A19E59FDD5
+10:51:38	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=DA5CA073123DF4B92EA474A19E59FDD5 to https://rossfairgrieve.com/?wordfence_lh=1&hid=DA5CA073123DF4B92EA474A19E59FDD5
+10:51:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/actress-headshot-photography-laura-bailey/thumbs/thumbs_laura-bailey-headshots-21.jpg (from https://rossfairgrieve.com/headshot-photography-with-actress-laura-bailey/)
+10:51:46	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=321
+10:51:46	Warning: 	File has moved from https://rossfairgrieve.com/?p=321 to https://rossfairgrieve.com/purestretch/
+10:51:46	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9
+10:51:46	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9 and https://rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9
+10:51:46	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9 to https://rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9
+10:51:46	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=422
+10:51:46	Warning: 	File has moved from https://rossfairgrieve.com/?p=422 to https://rossfairgrieve.com/the-perfect-stills-video-camera/
+10:51:46	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=D7016BC49FB8385C17BCBB783898BC90
+10:51:46	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=D7016BC49FB8385C17BCBB783898BC90 and https://rossfairgrieve.com/?wordfence_lh=1&hid=D7016BC49FB8385C17BCBB783898BC90
+10:51:46	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=D7016BC49FB8385C17BCBB783898BC90 to https://rossfairgrieve.com/?wordfence_lh=1&hid=D7016BC49FB8385C17BCBB783898BC90
+10:51:48	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=594
+10:51:48	Warning: 	File has moved from https://rossfairgrieve.com/?p=594 to https://rossfairgrieve.com/time-for-lime-cooking-school/
+10:51:48	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE
+10:51:48	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE and https://rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE
+10:51:48	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE to https://rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE
+10:51:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/time-for-lime/thumbs/thumbs_time-for-lime-koh-lanta-1.jpg (from https://rossfairgrieve.com/time-for-lime-cooking-school/)
+10:51:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/time-for-lime/thumbs/thumbs_time-for-lime-koh-lanta-4.jpg (from https://rossfairgrieve.com/time-for-lime-cooking-school/)
+10:51:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/time-for-lime/thumbs/thumbs_time-for-lime-koh-lanta-13.jpg (from https://rossfairgrieve.com/time-for-lime-cooking-school/)
+10:51:52	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=62BB1FBAD1FF852C631D97DF24A50C95
+10:51:52	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=62BB1FBAD1FF852C631D97DF24A50C95 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D62BB1FBAD1FF852C631D97DF24A50C95
+10:51:52	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=B1F0B65FBEE5BB904B0B33544073D5EB
+10:51:52	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=B1F0B65FBEE5BB904B0B33544073D5EB to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DB1F0B65FBEE5BB904B0B33544073D5EB
+10:51:56	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=EAAED0342B8A27593434FAEC2F6D0EED
+10:51:56	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=EAAED0342B8A27593434FAEC2F6D0EED and https://rossfairgrieve.com/?wordfence_lh=1&hid=EAAED0342B8A27593434FAEC2F6D0EED
+10:51:56	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=EAAED0342B8A27593434FAEC2F6D0EED to https://rossfairgrieve.com/?wordfence_lh=1&hid=EAAED0342B8A27593434FAEC2F6D0EED
+10:52:00	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=BEB1E988FDDE728928FA8A89CC0297AE
+10:52:00	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=BEB1E988FDDE728928FA8A89CC0297AE to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DBEB1E988FDDE728928FA8A89CC0297AE
+10:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=ABE603E9FFCCB7559BB383449470C637 (from rossfairgrieve.com/?wordfence_lh=1&hid=ABE603E9FFCCB7559BB383449470C637)
+10:52:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/author/ross/page/3/ (from https://rossfairgrieve.com/author/ross/page/2/)
+10:52:05	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=1E77418E3EA1489B78BDE76C70533DFE
+10:52:05	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=1E77418E3EA1489B78BDE76C70533DFE and https://rossfairgrieve.com/?wordfence_lh=1&hid=1E77418E3EA1489B78BDE76C70533DFE
+10:52:05	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=1E77418E3EA1489B78BDE76C70533DFE to https://rossfairgrieve.com/?wordfence_lh=1&hid=1E77418E3EA1489B78BDE76C70533DFE
+10:52:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=95DB040AECED3AA5CEF73D9B8F74CB40 (from rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40)
+10:52:05	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=1F3CF370E68109D324D7F3EC63CFEBB6
+10:52:05	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1F3CF370E68109D324D7F3EC63CFEBB6 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1F3CF370E68109D324D7F3EC63CFEBB6
+10:52:10	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=52
+10:52:10	Warning: 	File has moved from https://rossfairgrieve.com/?p=52 to https://rossfairgrieve.com/contact/
+10:52:10	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11
+10:52:10	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11 and https://rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11
+10:52:10	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11 to https://rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11
+10:52:10	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=AA758469DF6E911839F78F43C7410FC5
+10:52:10	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=AA758469DF6E911839F78F43C7410FC5 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DAA758469DF6E911839F78F43C7410FC5
+10:52:14	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0EB618F465D05C4F79FA298A73AAAA7
+10:52:14	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0EB618F465D05C4F79FA298A73AAAA7 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA0EB618F465D05C4F79FA298A73AAAA7
+10:52:14	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=3C32E46857F1C4E8EF612559B2959DDF
+10:52:14	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=3C32E46857F1C4E8EF612559B2959DDF to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D3C32E46857F1C4E8EF612559B2959DDF
+10:52:18	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=59FE3BD9A84AD920EAD6BC5DC6165871
+10:52:18	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=59FE3BD9A84AD920EAD6BC5DC6165871 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D59FE3BD9A84AD920EAD6BC5DC6165871
+10:52:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=C29B16DB63D7CC1F3670BA289C89E984 (from rossfairgrieve.com/?wordfence_lh=1&hid=C29B16DB63D7CC1F3670BA289C89E984)
+10:52:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fonts/fontawesome-webfont.eot?v=4.6.1 (from https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1)
+10:52:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fonts/fontawesome-webfont.woff2?v=4.6.1 (from https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1)
+10:52:24	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=06F83E5517079249BD9C3C8892629285
+10:52:24	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=06F83E5517079249BD9C3C8892629285 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D06F83E5517079249BD9C3C8892629285
+10:52:25	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=F6CF045A5E6FABEE1866E724CF8353EF
+10:52:25	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F6CF045A5E6FABEE1866E724CF8353EF to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF6CF045A5E6FABEE1866E724CF8353EF
+10:52:25	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=FBD583F76F9916ACB1FE94C82B94B82C
+10:52:25	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=FBD583F76F9916ACB1FE94C82B94B82C to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DFBD583F76F9916ACB1FE94C82B94B82C
+10:52:32	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=C5C8B9121C2B53FE69764FCD3F02B3ED
+10:52:32	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C5C8B9121C2B53FE69764FCD3F02B3ED to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC5C8B9121C2B53FE69764FCD3F02B3ED
+10:52:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=8126926266C310F06B462D9D2744BF1B (from rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B)
+10:52:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/hello-world/ (from https://rossfairgrieve.com/our-daily-shred/)
+10:52:36	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=374
+10:52:36	Warning: 	File has moved from https://rossfairgrieve.com/?p=374 to https://rossfairgrieve.com/our-daily-shred/
+10:52:36	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67
+10:52:36	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67 and https://rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67
+10:52:36	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67 to https://rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67
+10:52:36	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=35B996455AB1A99629727284367C85FD
+10:52:36	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=35B996455AB1A99629727284367C85FD and https://rossfairgrieve.com/?wordfence_lh=1&hid=35B996455AB1A99629727284367C85FD
+10:52:36	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=35B996455AB1A99629727284367C85FD to https://rossfairgrieve.com/?wordfence_lh=1&hid=35B996455AB1A99629727284367C85FD
+10:52:38	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=CBBE47D90B8CC82F37AE681E9DFDDBC0
+10:52:38	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=CBBE47D90B8CC82F37AE681E9DFDDBC0 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DCBBE47D90B8CC82F37AE681E9DFDDBC0
+10:52:39	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=A3410941F797529D574A3D6187C2D4A8
+10:52:39	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A3410941F797529D574A3D6187C2D4A8 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA3410941F797529D574A3D6187C2D4A8
+10:52:40	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=552
+10:52:40	Warning: 	File has moved from https://rossfairgrieve.com/?p=552 to https://rossfairgrieve.com/phangan-animal-care-pac/
+10:52:41	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=0AE7DDA74EC171B0092CF3854917EFBA
+10:52:41	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=0AE7DDA74EC171B0092CF3854917EFBA and https://rossfairgrieve.com/?wordfence_lh=1&hid=0AE7DDA74EC171B0092CF3854917EFBA
+10:52:41	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=0AE7DDA74EC171B0092CF3854917EFBA to https://rossfairgrieve.com/?wordfence_lh=1&hid=0AE7DDA74EC171B0092CF3854917EFBA
+10:52:53	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=612
+10:52:53	Warning: 	File has moved from https://rossfairgrieve.com/?p=612 to https://rossfairgrieve.com/the-stageplay-academy/
+10:52:53	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=02DB644397DFFF3EA12662B376A10334
+10:52:53	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=02DB644397DFFF3EA12662B376A10334 and https://rossfairgrieve.com/?wordfence_lh=1&hid=02DB644397DFFF3EA12662B376A10334
+10:52:53	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=02DB644397DFFF3EA12662B376A10334 to https://rossfairgrieve.com/?wordfence_lh=1&hid=02DB644397DFFF3EA12662B376A10334
+10:52:53	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6
+10:52:53	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6 and https://rossfairgrieve.com/?wordfence_lh=1&hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6
+10:52:53	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6 to https://rossfairgrieve.com/?wordfence_lh=1&hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6
+10:53:51	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=3AEBCE6792E690C15EBBE79FE6E1A5BE
+10:53:51	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=3AEBCE6792E690C15EBBE79FE6E1A5BE to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D3AEBCE6792E690C15EBBE79FE6E1A5BE
+10:53:51	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=B471E06173E50F7F08DB738E198CEB4C
+10:53:51	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=B471E06173E50F7F08DB738E198CEB4C to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DB471E06173E50F7F08DB738E198CEB4C
+10:53:51	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=341
+10:53:51	Warning: 	File has moved from https://rossfairgrieve.com/?p=341 to https://rossfairgrieve.com/vietnam/
+10:53:51	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=6C2290B1C999E5884BF9DBB8EF29724F
+10:53:51	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=6C2290B1C999E5884BF9DBB8EF29724F and https://rossfairgrieve.com/?wordfence_lh=1&hid=6C2290B1C999E5884BF9DBB8EF29724F
+10:53:51	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=6C2290B1C999E5884BF9DBB8EF29724F to https://rossfairgrieve.com/?wordfence_lh=1&hid=6C2290B1C999E5884BF9DBB8EF29724F
+10:53:55	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=626
+10:53:55	Warning: 	File has moved from https://rossfairgrieve.com/?p=626 to https://rossfairgrieve.com/landscapes-and-nature/
+10:53:55	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=E901F860451F66F0FA1C3895629D1230
+10:53:55	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=E901F860451F66F0FA1C3895629D1230 and https://rossfairgrieve.com/?wordfence_lh=1&hid=E901F860451F66F0FA1C3895629D1230
+10:53:55	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=E901F860451F66F0FA1C3895629D1230 to https://rossfairgrieve.com/?wordfence_lh=1&hid=E901F860451F66F0FA1C3895629D1230
+10:54:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/nature-and-landscapes/reading-berkshire-photographer-11.jpg (from https://rossfairgrieve.com/landscapes-and-nature/)
+10:54:04	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=394
+10:54:04	Warning: 	File has moved from https://rossfairgrieve.com/?p=394 to https://rossfairgrieve.com/sports-photograph/
+10:54:04	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700
+10:54:04	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700 and https://rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700
+10:54:04	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700 to https://rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700
+10:54:04	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=630
+10:54:04	Warning: 	File has moved from https://rossfairgrieve.com/?p=630 to https://rossfairgrieve.com/abstracts-and-other-photos/
+10:54:04	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=163437F67C0F015B4FE01CCE307FBEE0
+10:54:04	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=163437F67C0F015B4FE01CCE307FBEE0 and https://rossfairgrieve.com/?wordfence_lh=1&hid=163437F67C0F015B4FE01CCE307FBEE0
+10:54:04	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=163437F67C0F015B4FE01CCE307FBEE0 to https://rossfairgrieve.com/?wordfence_lh=1&hid=163437F67C0F015B4FE01CCE307FBEE0
+10:54:04	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17
+10:54:04	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17 and https://rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17
+10:54:04	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17 to https://rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17
+10:54:04	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=98D992AA6E681722B21698CB0DCEB6D0
+10:54:04	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=98D992AA6E681722B21698CB0DCEB6D0 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D98D992AA6E681722B21698CB0DCEB6D0
+10:54:04	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=4054F7CDBF904899D05D458C7A41ECBC
+10:54:04	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=4054F7CDBF904899D05D458C7A41ECBC to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D4054F7CDBF904899D05D458C7A41ECBC
+10:54:07	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=A4D7B2263E23DEAD26174E9FE17A7233
+10:54:07	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A4D7B2263E23DEAD26174E9FE17A7233 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA4D7B2263E23DEAD26174E9FE17A7233
+10:54:07	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=3542523000D27CFA2511EA93C107D3FA
+10:54:07	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=3542523000D27CFA2511EA93C107D3FA to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D3542523000D27CFA2511EA93C107D3FA
+10:54:18	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1
+10:54:18	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1 and https://rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1
+10:54:18	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1 to https://rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1
+10:54:18	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA
+10:54:18	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA and https://rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA
+10:54:18	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA to https://rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA
+10:54:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=29E3785D6939B07362C52D226FD88A3C (from rossfairgrieve.com/?wordfence_lh=1&hid=29E3785D6939B07362C52D226FD88A3C)
+10:54:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00 (from rossfairgrieve.com/?wordfence_lh=1&hid=5A605228460FADEC30604721D3D80C00)
+10:54:18	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=81B26C677C90933C8D68C4A2FE3A5DF8
+10:54:18	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=81B26C677C90933C8D68C4A2FE3A5DF8 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D81B26C677C90933C8D68C4A2FE3A5DF8
+10:54:19	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F
+10:54:19	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F and https://rossfairgrieve.com/?wordfence_lh=1&hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F
+10:54:19	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F to https://rossfairgrieve.com/?wordfence_lh=1&hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F
+10:54:20	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=C2B4DE8CB0B9B0293E824D51D8795548
+10:54:20	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C2B4DE8CB0B9B0293E824D51D8795548 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC2B4DE8CB0B9B0293E824D51D8795548
+10:54:21	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=399
+10:54:21	Warning: 	File has moved from https://rossfairgrieve.com/?p=399 to https://rossfairgrieve.com/best-gopro-hero2-settings/
+10:54:21	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=85B3D964970D62BD3571A8D802B38DCB
+10:54:21	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=85B3D964970D62BD3571A8D802B38DCB and https://rossfairgrieve.com/?wordfence_lh=1&hid=85B3D964970D62BD3571A8D802B38DCB
+10:54:21	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=85B3D964970D62BD3571A8D802B38DCB to https://rossfairgrieve.com/?wordfence_lh=1&hid=85B3D964970D62BD3571A8D802B38DCB
+10:54:31	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=157
+10:54:31	Warning: 	File has moved from https://rossfairgrieve.com/?p=157 to https://rossfairgrieve.com/corporate-promotions-advertising/
+10:54:31	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165
+10:54:31	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165 and https://rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165
+10:54:31	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165 to https://rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165
+10:54:31	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC
+10:54:31	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC and https://rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC
+10:54:31	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC to https://rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC
+10:54:31	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=159
+10:54:31	Warning: 	File has moved from https://rossfairgrieve.com/?p=159 to https://rossfairgrieve.com/charity/
+10:54:31	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=0DBD8ECC7CBBBA47A59FDA25EE633200
+10:54:31	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=0DBD8ECC7CBBBA47A59FDA25EE633200 and https://rossfairgrieve.com/?wordfence_lh=1&hid=0DBD8ECC7CBBBA47A59FDA25EE633200
+10:54:31	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=0DBD8ECC7CBBBA47A59FDA25EE633200 to https://rossfairgrieve.com/?wordfence_lh=1&hid=0DBD8ECC7CBBBA47A59FDA25EE633200
+10:54:31	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=145
+10:54:31	Warning: 	File has moved from https://rossfairgrieve.com/?p=145 to https://rossfairgrieve.com/event-coverage/
+10:54:31	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD
+10:54:31	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD and https://rossfairgrieve.com/?wordfence_lh=1&hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD
+10:54:31	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD to https://rossfairgrieve.com/?wordfence_lh=1&hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD
+10:54:32	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=161
+10:54:32	Warning: 	File has moved from https://rossfairgrieve.com/?p=161 to https://rossfairgrieve.com/property/
+10:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frossfairgrieve.com%2Fproperty%2F&format=xml (from https://rossfairgrieve.com/property/)
+10:54:32	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=D9B82B22A0C9BD93D636EFB9494AEB98
+10:54:32	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=D9B82B22A0C9BD93D636EFB9494AEB98 and https://rossfairgrieve.com/?wordfence_lh=1&hid=D9B82B22A0C9BD93D636EFB9494AEB98
+10:54:32	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=D9B82B22A0C9BD93D636EFB9494AEB98 to https://rossfairgrieve.com/?wordfence_lh=1&hid=D9B82B22A0C9BD93D636EFB9494AEB98
+10:54:34	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=D8D576DDC90E93D45C84385478140ED0
+10:54:34	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D8D576DDC90E93D45C84385478140ED0 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD8D576DDC90E93D45C84385478140ED0
+10:54:34	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D
+10:54:34	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C61A2D7D0B85E5A95F5D0ABFD58EE07D to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC61A2D7D0B85E5A95F5D0ABFD58EE07D
+10:54:45	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFDD1C2453E701DB62A2602FF7FF80CD
+10:54:45	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFDD1C2453E701DB62A2602FF7FF80CD to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DFFDD1C2453E701DB62A2602FF7FF80CD
+10:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=00D783B21CBC444CAA064BAE1580700D (from rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D)
+10:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=700C3020CED387D2E5A0C3B7D0830F28 (from rossfairgrieve.com/?wordfence_lh=1&hid=700C3020CED387D2E5A0C3B7D0830F28)
+10:54:46	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=44AC6999062DCE3ABFD299BC4F670F26
+10:54:46	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=44AC6999062DCE3ABFD299BC4F670F26 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D44AC6999062DCE3ABFD299BC4F670F26
+10:54:46	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=C0673934567482433E439254425FFAA6
+10:54:46	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C0673934567482433E439254425FFAA6 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC0673934567482433E439254425FFAA6
+10:54:46	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=FFA2EB53874695B99EA722BC2AD2F6F3
+10:54:46	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=FFA2EB53874695B99EA722BC2AD2F6F3 and https://rossfairgrieve.com/?wordfence_lh=1&hid=FFA2EB53874695B99EA722BC2AD2F6F3
+10:54:46	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=FFA2EB53874695B99EA722BC2AD2F6F3 to https://rossfairgrieve.com/?wordfence_lh=1&hid=FFA2EB53874695B99EA722BC2AD2F6F3
+10:54:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3 (from rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3)
+10:54:47	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=DA5CA073123DF4B92EA474A19E59FDD5
+10:54:47	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=DA5CA073123DF4B92EA474A19E59FDD5 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DDA5CA073123DF4B92EA474A19E59FDD5
+10:54:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=6CC5FD84E164BD663BB28F7A1AE2F1F9 (from rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9)
+10:54:59	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7016BC49FB8385C17BCBB783898BC90
+10:54:59	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7016BC49FB8385C17BCBB783898BC90 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD7016BC49FB8385C17BCBB783898BC90
+10:54:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=56210A9DA2BD2117FF6824C7EC81DBFE (from rossfairgrieve.com/?wordfence_lh=1&hid=56210A9DA2BD2117FF6824C7EC81DBFE)
+10:55:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/time-for-lime/thumbs/thumbs_time-for-lime-koh-lanta-13.jpg (from https://rossfairgrieve.com/time-for-lime-cooking-school/)
+10:55:00	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB
+10:55:00	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB and https://rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB
+10:55:00	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB to https://rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB
+10:55:00	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=EAAED0342B8A27593434FAEC2F6D0EED
+10:55:00	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=EAAED0342B8A27593434FAEC2F6D0EED to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DEAAED0342B8A27593434FAEC2F6D0EED
+10:55:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DBEB1E988FDDE728928FA8A89CC0297AE (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=BEB1E988FDDE728928FA8A89CC0297AE)
+10:55:01	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=ABE603E9FFCCB7559BB383449470C637
+10:55:01	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=ABE603E9FFCCB7559BB383449470C637 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DABE603E9FFCCB7559BB383449470C637
+10:55:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/author/ross/page/3/ (from https://rossfairgrieve.com/author/ross/page/2/)
+10:55:07	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=1E77418E3EA1489B78BDE76C70533DFE
+10:55:07	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1E77418E3EA1489B78BDE76C70533DFE to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1E77418E3EA1489B78BDE76C70533DFE
+10:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=95DB040AECED3AA5CEF73D9B8F74CB40 (from rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40)
+10:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=F7373899B892AE6EF764605C9C59DF11 (from rossfairgrieve.com/?wordfence_lh=1&hid=F7373899B892AE6EF764605C9C59DF11)
+10:55:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA0EB618F465D05C4F79FA298A73AAAA7 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0EB618F465D05C4F79FA298A73AAAA7)
+10:55:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D59FE3BD9A84AD920EAD6BC5DC6165871 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=59FE3BD9A84AD920EAD6BC5DC6165871)
+10:55:15	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=C29B16DB63D7CC1F3670BA289C89E984
+10:55:15	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C29B16DB63D7CC1F3670BA289C89E984 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC29B16DB63D7CC1F3670BA289C89E984
+10:55:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fonts/fontawesome-webfont.eot?v=4.6.1 (from https://rossfairgrieve.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1)
+10:55:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF6CF045A5E6FABEE1866E724CF8353EF (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F6CF045A5E6FABEE1866E724CF8353EF)
+10:55:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=8126926266C310F06B462D9D2744BF1B (from rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B)
+10:55:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=F5566C0BAC7980CACC1D10F5636DBF67 (from rossfairgrieve.com/?wordfence_lh=1&hid=F5566C0BAC7980CACC1D10F5636DBF67)
+10:55:28	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=35B996455AB1A99629727284367C85FD
+10:55:28	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=35B996455AB1A99629727284367C85FD to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D35B996455AB1A99629727284367C85FD
+10:55:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DCBBE47D90B8CC82F37AE681E9DFDDBC0 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=CBBE47D90B8CC82F37AE681E9DFDDBC0)
+10:55:29	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=0AE7DDA74EC171B0092CF3854917EFBA
+10:55:29	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=0AE7DDA74EC171B0092CF3854917EFBA to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D0AE7DDA74EC171B0092CF3854917EFBA
+10:55:40	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=165
+10:55:40	Warning: 	File has moved from https://rossfairgrieve.com/?p=165 to https://rossfairgrieve.com/extreme-environments/
+10:55:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frossfairgrieve.com%2Fextreme-environments%2F (from https://rossfairgrieve.com/extreme-environments/)
+10:55:40	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=519AC59C91F8773BE66917717607F8C7
+10:55:40	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=519AC59C91F8773BE66917717607F8C7 and https://rossfairgrieve.com/?wordfence_lh=1&hid=519AC59C91F8773BE66917717607F8C7
+10:55:40	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=519AC59C91F8773BE66917717607F8C7 to https://rossfairgrieve.com/?wordfence_lh=1&hid=519AC59C91F8773BE66917717607F8C7
+10:55:41	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=02DB644397DFFF3EA12662B376A10334
+10:55:41	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=02DB644397DFFF3EA12662B376A10334 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D02DB644397DFFF3EA12662B376A10334
+10:55:42	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6
+10:55:42	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7F3DDDEB8C6C93000E7BA3F8CD6991D6
+10:55:42	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=163
+10:55:42	Warning: 	File has moved from https://rossfairgrieve.com/?p=163 to https://rossfairgrieve.com/portrait-headshot-photography/
+10:55:42	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D
+10:55:42	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D and https://rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D
+10:55:42	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D to https://rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D
+10:55:42	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=6C2290B1C999E5884BF9DBB8EF29724F
+10:55:42	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=6C2290B1C999E5884BF9DBB8EF29724F to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D6C2290B1C999E5884BF9DBB8EF29724F
+10:55:42	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=E901F860451F66F0FA1C3895629D1230
+10:55:42	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=E901F860451F66F0FA1C3895629D1230 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DE901F860451F66F0FA1C3895629D1230
+10:55:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-content/gallery/nature-and-landscapes/reading-berkshire-photographer-11.jpg (from https://rossfairgrieve.com/landscapes-and-nature/)
+10:55:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=EC958EE95A1A1D863AB09DEE4AD36700 (from rossfairgrieve.com/?wordfence_lh=1&hid=EC958EE95A1A1D863AB09DEE4AD36700)
+10:55:55	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=163437F67C0F015B4FE01CCE307FBEE0
+10:55:55	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=163437F67C0F015B4FE01CCE307FBEE0 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D163437F67C0F015B4FE01CCE307FBEE0
+10:55:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=72B70ED0BC1CC32D91E664CEA287EB17 (from rossfairgrieve.com/?wordfence_lh=1&hid=72B70ED0BC1CC32D91E664CEA287EB17)
+10:55:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA4D7B2263E23DEAD26174E9FE17A7233 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A4D7B2263E23DEAD26174E9FE17A7233)
+10:55:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=886EF332869B43B2F2F811560768B7E1 (from rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1)
+10:55:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0487751BDA522EC9C2F11BA5481BCFA (from rossfairgrieve.com/?wordfence_lh=1&hid=A0487751BDA522EC9C2F11BA5481BCFA)
+10:55:56	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=29E3785D6939B07362C52D226FD88A3C
+10:55:56	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=29E3785D6939B07362C52D226FD88A3C to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D29E3785D6939B07362C52D226FD88A3C
+10:55:59	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00
+10:55:59	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D5A605228460FADEC30604721D3D80C00
+10:55:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D81B26C677C90933C8D68C4A2FE3A5DF8 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=81B26C677C90933C8D68C4A2FE3A5DF8)
+10:56:10	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F
+10:56:10	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1B7544D7BC5ED46144DBC0C3C9EEBF0F
+10:56:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC2B4DE8CB0B9B0293E824D51D8795548 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C2B4DE8CB0B9B0293E824D51D8795548)
+10:56:11	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=85B3D964970D62BD3571A8D802B38DCB
+10:56:11	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=85B3D964970D62BD3571A8D802B38DCB to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D85B3D964970D62BD3571A8D802B38DCB
+10:56:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165 (from rossfairgrieve.com/?wordfence_lh=1&hid=62EAAADB722BFACFFF378FF41EF63165)
+10:56:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=6E5D2E0BCFD598D8B2C1CF95B51457EC (from rossfairgrieve.com/?wordfence_lh=1&hid=6E5D2E0BCFD598D8B2C1CF95B51457EC)
+10:56:11	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=0DBD8ECC7CBBBA47A59FDA25EE633200
+10:56:11	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=0DBD8ECC7CBBBA47A59FDA25EE633200 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D0DBD8ECC7CBBBA47A59FDA25EE633200
+10:56:12	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD
+10:56:12	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=DCF1CDA9F6CC5C425A1F8816DFD1BFCD to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DDCF1CDA9F6CC5C425A1F8816DFD1BFCD
+10:56:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frossfairgrieve.com%2Fproperty%2F&format=xml (from https://rossfairgrieve.com/property/)
+10:56:25	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=D9B82B22A0C9BD93D636EFB9494AEB98
+10:56:25	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D9B82B22A0C9BD93D636EFB9494AEB98 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD9B82B22A0C9BD93D636EFB9494AEB98
+10:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD8D576DDC90E93D45C84385478140ED0 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D8D576DDC90E93D45C84385478140ED0)
+10:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DFFDD1C2453E701DB62A2602FF7FF80CD (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFDD1C2453E701DB62A2602FF7FF80CD)
+10:56:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=00D783B21CBC444CAA064BAE1580700D (from rossfairgrieve.com/?wordfence_lh=1&hid=00D783B21CBC444CAA064BAE1580700D)
+10:56:26	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=700C3020CED387D2E5A0C3B7D0830F28
+10:56:26	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=700C3020CED387D2E5A0C3B7D0830F28 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D700C3020CED387D2E5A0C3B7D0830F28
+10:56:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D44AC6999062DCE3ABFD299BC4F670F26 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=44AC6999062DCE3ABFD299BC4F670F26)
+10:56:33	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFA2EB53874695B99EA722BC2AD2F6F3
+10:56:33	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFA2EB53874695B99EA722BC2AD2F6F3 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DFFA2EB53874695B99EA722BC2AD2F6F3
+10:56:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3 (from rossfairgrieve.com/?wordfence_lh=1&hid=F07B0AA356DF11DF2569538C6DF5DBC3)
+10:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=6CC5FD84E164BD663BB28F7A1AE2F1F9 (from rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9)
+10:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD7016BC49FB8385C17BCBB783898BC90 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7016BC49FB8385C17BCBB783898BC90)
+10:56:39	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=56210A9DA2BD2117FF6824C7EC81DBFE
+10:56:39	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=56210A9DA2BD2117FF6824C7EC81DBFE to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D56210A9DA2BD2117FF6824C7EC81DBFE
+10:56:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=60E8CF71E93AC6EDC5F7F21A4987ECFB (from rossfairgrieve.com/?wordfence_lh=1&hid=60E8CF71E93AC6EDC5F7F21A4987ECFB)
+10:56:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DBEB1E988FDDE728928FA8A89CC0297AE (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=BEB1E988FDDE728928FA8A89CC0297AE)
+10:56:49	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=95DB040AECED3AA5CEF73D9B8F74CB40 (from rossfairgrieve.com/?wordfence_lh=1&hid=95DB040AECED3AA5CEF73D9B8F74CB40)
+10:56:49	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=F7373899B892AE6EF764605C9C59DF11
+10:56:49	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F7373899B892AE6EF764605C9C59DF11 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF7373899B892AE6EF764605C9C59DF11
+10:56:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA0EB618F465D05C4F79FA298A73AAAA7 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0EB618F465D05C4F79FA298A73AAAA7)
+10:56:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC29B16DB63D7CC1F3670BA289C89E984 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C29B16DB63D7CC1F3670BA289C89E984)
+10:56:53	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=8126926266C310F06B462D9D2744BF1B (from rossfairgrieve.com/?wordfence_lh=1&hid=8126926266C310F06B462D9D2744BF1B)
+10:56:53	Warning: 	Moved Permanently for https://rossfairgrieve.com/?p=1
+10:56:53	Warning: 	File has moved from https://rossfairgrieve.com/?p=1 to https://rossfairgrieve.com/hello-world/
+10:56:53	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=1D7797CEAB896EB80777F44CC253AE79
+10:56:53	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=1D7797CEAB896EB80777F44CC253AE79 and https://rossfairgrieve.com/?wordfence_lh=1&hid=1D7797CEAB896EB80777F44CC253AE79
+10:56:53	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=1D7797CEAB896EB80777F44CC253AE79 to https://rossfairgrieve.com/?wordfence_lh=1&hid=1D7797CEAB896EB80777F44CC253AE79
+10:56:55	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=F5566C0BAC7980CACC1D10F5636DBF67
+10:56:55	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F5566C0BAC7980CACC1D10F5636DBF67 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF5566C0BAC7980CACC1D10F5636DBF67
+10:56:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frossfairgrieve.com%2Fextreme-environments%2F (from https://rossfairgrieve.com/extreme-environments/)
+10:57:02	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=519AC59C91F8773BE66917717607F8C7
+10:57:02	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=519AC59C91F8773BE66917717607F8C7 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D519AC59C91F8773BE66917717607F8C7
+10:57:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D02DB644397DFFF3EA12662B376A10334 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=02DB644397DFFF3EA12662B376A10334)
+10:57:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7F3DDDEB8C6C93000E7BA3F8CD6991D6 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6)
+10:57:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=31510B10FBD442CC6E799359E1E99D5D (from rossfairgrieve.com/?wordfence_lh=1&hid=31510B10FBD442CC6E799359E1E99D5D)
+10:57:06	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=EC958EE95A1A1D863AB09DEE4AD36700
+10:57:06	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=EC958EE95A1A1D863AB09DEE4AD36700 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DEC958EE95A1A1D863AB09DEE4AD36700
+10:57:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D163437F67C0F015B4FE01CCE307FBEE0 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=163437F67C0F015B4FE01CCE307FBEE0)
+10:57:09	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=72B70ED0BC1CC32D91E664CEA287EB17
+10:57:09	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=72B70ED0BC1CC32D91E664CEA287EB17 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D72B70ED0BC1CC32D91E664CEA287EB17
+10:57:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA4D7B2263E23DEAD26174E9FE17A7233 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A4D7B2263E23DEAD26174E9FE17A7233)
+10:57:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=886EF332869B43B2F2F811560768B7E1 (from rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1)
+10:57:17	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0487751BDA522EC9C2F11BA5481BCFA
+10:57:17	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=A0487751BDA522EC9C2F11BA5481BCFA to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DA0487751BDA522EC9C2F11BA5481BCFA
+10:57:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D5A605228460FADEC30604721D3D80C00 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00)
+10:57:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1B7544D7BC5ED46144DBC0C3C9EEBF0F (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1B7544D7BC5ED46144DBC0C3C9EEBF0F)
+10:57:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC2B4DE8CB0B9B0293E824D51D8795548 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C2B4DE8CB0B9B0293E824D51D8795548)
+10:57:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D85B3D964970D62BD3571A8D802B38DCB (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=85B3D964970D62BD3571A8D802B38DCB)
+10:57:23	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165
+10:57:23	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D62EAAADB722BFACFFF378FF41EF63165
+10:57:23	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=6E5D2E0BCFD598D8B2C1CF95B51457EC
+10:57:23	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=6E5D2E0BCFD598D8B2C1CF95B51457EC to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D6E5D2E0BCFD598D8B2C1CF95B51457EC
+10:57:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D0DBD8ECC7CBBBA47A59FDA25EE633200 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=0DBD8ECC7CBBBA47A59FDA25EE633200)
+10:57:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD9B82B22A0C9BD93D636EFB9494AEB98 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D9B82B22A0C9BD93D636EFB9494AEB98)
+10:57:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD8D576DDC90E93D45C84385478140ED0 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D8D576DDC90E93D45C84385478140ED0)
+10:57:34	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=00D783B21CBC444CAA064BAE1580700D
+10:57:34	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=00D783B21CBC444CAA064BAE1580700D to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D00D783B21CBC444CAA064BAE1580700D
+10:57:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D700C3020CED387D2E5A0C3B7D0830F28 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=700C3020CED387D2E5A0C3B7D0830F28)
+10:57:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DFFA2EB53874695B99EA722BC2AD2F6F3 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=FFA2EB53874695B99EA722BC2AD2F6F3)
+10:57:36	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3
+10:57:36	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF07B0AA356DF11DF2569538C6DF5DBC3
+10:57:37	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=6CC5FD84E164BD663BB28F7A1AE2F1F9 (from rossfairgrieve.com/?wordfence_lh=1&hid=6CC5FD84E164BD663BB28F7A1AE2F1F9)
+10:57:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD7016BC49FB8385C17BCBB783898BC90 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7016BC49FB8385C17BCBB783898BC90)
+10:57:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D56210A9DA2BD2117FF6824C7EC81DBFE (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=56210A9DA2BD2117FF6824C7EC81DBFE)
+10:57:44	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=60E8CF71E93AC6EDC5F7F21A4987ECFB
+10:57:44	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=60E8CF71E93AC6EDC5F7F21A4987ECFB to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D60E8CF71E93AC6EDC5F7F21A4987ECFB
+10:57:48	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4
+10:57:48	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4 and https://rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4
+10:57:48	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4 to https://rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4
+10:57:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC29B16DB63D7CC1F3670BA289C89E984 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C29B16DB63D7CC1F3670BA289C89E984)
+10:57:51	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=1D7797CEAB896EB80777F44CC253AE79
+10:57:51	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1D7797CEAB896EB80777F44CC253AE79 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1D7797CEAB896EB80777F44CC253AE79
+10:57:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF5566C0BAC7980CACC1D10F5636DBF67 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F5566C0BAC7980CACC1D10F5636DBF67)
+10:57:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D519AC59C91F8773BE66917717607F8C7 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=519AC59C91F8773BE66917717607F8C7)
+10:57:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7F3DDDEB8C6C93000E7BA3F8CD6991D6 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6)
+10:57:57	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=31510B10FBD442CC6E799359E1E99D5D
+10:57:57	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=31510B10FBD442CC6E799359E1E99D5D to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D31510B10FBD442CC6E799359E1E99D5D
+10:58:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DEC958EE95A1A1D863AB09DEE4AD36700 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=EC958EE95A1A1D863AB09DEE4AD36700)
+10:58:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D72B70ED0BC1CC32D91E664CEA287EB17 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=72B70ED0BC1CC32D91E664CEA287EB17)
+10:58:04	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=886EF332869B43B2F2F811560768B7E1 (from rossfairgrieve.com/?wordfence_lh=1&hid=886EF332869B43B2F2F811560768B7E1)
+10:58:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D5A605228460FADEC30604721D3D80C00 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00)
+10:58:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DC2B4DE8CB0B9B0293E824D51D8795548 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=C2B4DE8CB0B9B0293E824D51D8795548)
+10:58:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D62EAAADB722BFACFFF378FF41EF63165 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165)
+10:58:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D0DBD8ECC7CBBBA47A59FDA25EE633200 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=0DBD8ECC7CBBBA47A59FDA25EE633200)
+10:58:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD8D576DDC90E93D45C84385478140ED0 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D8D576DDC90E93D45C84385478140ED0)
+10:58:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D00D783B21CBC444CAA064BAE1580700D (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=00D783B21CBC444CAA064BAE1580700D)
+10:58:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF07B0AA356DF11DF2569538C6DF5DBC3 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3)
+10:58:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D56210A9DA2BD2117FF6824C7EC81DBFE (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=56210A9DA2BD2117FF6824C7EC81DBFE)
+10:58:16	Warning: 	Moved Permanently for rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53
+10:58:16	Warning: 	Redirected link is identical because of 'URL Hack' option: rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53 and https://rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53
+10:58:16	Warning: 	File has moved from rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53 to https://rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53
+10:58:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7D51E5883085DA2C032ABE12D05E4B4 (from rossfairgrieve.com/?wordfence_lh=1&hid=D7D51E5883085DA2C032ABE12D05E4B4)
+10:58:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1D7797CEAB896EB80777F44CC253AE79 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1D7797CEAB896EB80777F44CC253AE79)
+10:58:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D7F3DDDEB8C6C93000E7BA3F8CD6991D6 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=7F3DDDEB8C6C93000E7BA3F8CD6991D6)
+10:58:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DEC958EE95A1A1D863AB09DEE4AD36700 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=EC958EE95A1A1D863AB09DEE4AD36700)
+10:58:19	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D5A605228460FADEC30604721D3D80C00 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=5A605228460FADEC30604721D3D80C00)
+10:58:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D62EAAADB722BFACFFF378FF41EF63165 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165)
+10:58:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DF07B0AA356DF11DF2569538C6DF5DBC3 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=F07B0AA356DF11DF2569538C6DF5DBC3)
+10:58:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=90205E6B3735F8A4DB98180217193C53 (from rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53)
+10:58:24	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7D51E5883085DA2C032ABE12D05E4B4
+10:58:24	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=D7D51E5883085DA2C032ABE12D05E4B4 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3DD7D51E5883085DA2C032ABE12D05E4B4
+10:58:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D1D7797CEAB896EB80777F44CC253AE79 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=1D7797CEAB896EB80777F44CC253AE79)
+10:58:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D62EAAADB722BFACFFF378FF41EF63165 (from https://rossfairgrieve.com/?wordfence_lh=1%26hid=62EAAADB722BFACFFF378FF41EF63165)
+10:58:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rossfairgrieve.com/?wordfence_lh=1%26hid=90205E6B3735F8A4DB98180217193C53 (from rossfairgrieve.com/?wordfence_lh=1&hid=90205E6B3735F8A4DB98180217193C53)
+10:58:30	Warning: 	Moved Permanently for https://rossfairgrieve.com/?wordfence_lh=1%26hid=90205E6B3735F8A4DB98180217193C53
+10:58:30	Warning: 	File has moved from https://rossfairgrieve.com/?wordfence_lh=1%26hid=90205E6B3735F8A4DB98180217193C53 to https://rossfairgrieve.com/?wordfence_lh=1%26hid%3D90205E6B3735F8A4DB98180217193C53
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 27 seconds : 1385 links scanned, 1085 files written (106471951 bytes overall) [100119698 bytes received at 58652 bytes/sec], 9806384 bytes transferred using HTTP compression in 152 files, ratio 21%, 6.6 requests per connection
+(21 errors, 528 warnings, 0 messages)
